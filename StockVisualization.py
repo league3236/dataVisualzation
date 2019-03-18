@@ -65,5 +65,5 @@ layout = dict(
 )
 
 fig = dict(data=data, layout=layout)
-py.iplot(fig, filename = "현대정보기술 주가변동 현황")
+py.iplot(fig, filename = "주가변동 현황")
 
